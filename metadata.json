@@ -1,0 +1,7 @@
+{
+  "name": "ESP8266 Machine Predictive Maintenance",
+  "description": "Real-time machine predictive maintenance dashboard monitoring MPU6500 vibration, DS18B20 temperature, and microphone acoustic sensors with fallback logic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
